@@ -11,6 +11,12 @@ html,body{
 
 }
 
+h1 {
+
+    text-align: center;
+
+}
+
 .fnt{
 	font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
